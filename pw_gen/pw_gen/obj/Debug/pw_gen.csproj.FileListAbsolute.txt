@@ -1,0 +1,13 @@
+C:\Users\henri\source\repos\pw_gen\pw_gen\bin\Debug\pw_gen.exe.config
+C:\Users\henri\source\repos\pw_gen\pw_gen\bin\Debug\pw_gen.exe
+C:\Users\henri\source\repos\pw_gen\pw_gen\bin\Debug\pw_gen.pdb
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.csproj.AssemblyReference.cache
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.csproj.SuggestedBindingRedirects.cache
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.pwgen.resources
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.Properties.Resources.resources
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.csproj.GenerateResource.cache
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.exe
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.pdb
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.maxlen.resources
+C:\Users\henri\source\repos\pw_gen\pw_gen\obj\Debug\pw_gen.progress.resources
