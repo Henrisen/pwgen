@@ -70,6 +70,3 @@ jobs:
       with:
         name: MSIX_Package_${{ github.run_id }}  # Include unique ID
         path: ${{ env.Wap_Project_Directory }}\obj\Release
-
-    - name: Final Cleanup
-      run: Remove-Item -path $env:Wap_Project_Directory\GitHubActionsWorkflow.pfx -Force
